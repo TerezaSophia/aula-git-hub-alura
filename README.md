@@ -3,4 +3,5 @@
 > Aprendendo sobre essas ferramentas com atividade prática.
 > Criar File
 > Realizar commit
+>Utilizar VS Code no navegador
 
